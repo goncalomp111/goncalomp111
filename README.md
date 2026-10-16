@@ -1,6 +1,6 @@
 # Gonçalo Moura Pereira 👋
 
-**AI & Data Science Student @ FCUP/FEUP | Goalkeeper Coach @ FC Famalicão | Data Analyst @ Smart Data FEP**
+**AI & Data Science Student @ FCUP/FEUP | Data Analyst @ Smart Data FEP**
 
 ---
 
